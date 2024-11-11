@@ -1,2 +1,2 @@
-export * from "./lib/listenAndConnectionAndRpc$";
-export * from "./lib/connectAndRpc$";
+export * from "./lib/listenAndConnectionAndRpc$.js";
+export * from "./lib/connectAndRpc$.js";
